@@ -1,1 +1,1 @@
-# Diabetes Risk Prediction Using ML
+# Prediction Using ML
